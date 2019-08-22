@@ -9,4 +9,8 @@
  
  *********************
  
+ XML configurations
  
+ XML configuration file is placed in resources folder 
+ 
+ In the example you can i have commented the java configuration and bean tag help for configuration.
